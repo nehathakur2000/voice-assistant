@@ -1,16 +1,3 @@
-# import gtts
-# from playsound import playsound
-# import googletrans
-
-# print(googletrans.LANGUAGES)
-# a = gtts.gTTS("rakesh tu pizza ni pejya ta main tera kaam ni krna",lang="hi")
-
-# a.save("myfile.mp3")
-# playsound("myfile.mp3")
-
-
-
-
 import pyttsx3
 import speech_recognition as sp
 
